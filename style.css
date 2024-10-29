@@ -44,7 +44,7 @@ body {
   display: flex;
   flex-direction: column;
   max-width: 375px;
-  padding: 1rem; 
+  padding: 1.5rem; 
   overflow: hidden;
   position: relative;
   background-color: var(--white);
